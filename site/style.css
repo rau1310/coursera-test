@@ -1,1 +1,13 @@
-
+h1{
+	text-align: center;
+	font-size: 30px;
+	color: blue;
+}
+li{
+	font-size: 15px;
+	color: green;
+}
+footer{
+	text-align: center;
+	font-size: 30px;
+}
