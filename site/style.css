@@ -11,3 +11,26 @@ footer{
 	text-align: center;
 	font-size: 30px;
 }
+ol li{
+	list-style: none;
+
+}
+a:link, a:visited{
+	text-decoration: none;
+	background-color: green;
+	border: 1px solid blue;
+	color: black;
+	display: block;
+	width: 200px;
+	text-align: center;
+	margin-bottom: 1px;
+}
+a:hover, a:active{
+	background-color: red;
+	color: purple;
+}
+ol li:nth-child(3){
+	font-size: 20px;
+}
+
+}
