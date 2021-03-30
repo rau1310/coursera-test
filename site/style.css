@@ -1,12 +1,17 @@
 h1{
 	font-size: 40px;
 	font-family: 'Dela Gothic One', cursive;
+	color: white;
+
 	
 }
 p{
-	text-align: center;
+	text-align: right;
 	font-size: 20px;
 	font-family: 'Montserrat', sans-serif; 
+	color: #5F9EA0;
+	margin-top: 40px;
+	
 
 
 }
@@ -16,5 +21,17 @@ img{
   	margin-right: auto;
   	width: 50%;
   	height: 300px;
+  	float: right;
+  	display: block;
+}
+body{
+	background-color: black;
+}
+footer{
+	text-align: center;
+}
+.name{
+	font-family: 'Dela Gothic One', cursive;
+	color: #F0F8FF;
 }
 
