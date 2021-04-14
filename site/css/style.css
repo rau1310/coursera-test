@@ -1,37 +1,6 @@
-h1{
-	font-size: 40px;
-	font-family: 'Dela Gothic One', cursive;
-	color: white;
-
-	
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #A52A2A;
+	font-family: 'Oxygen', sans-serif;
 }
-p{
-	text-align: right;
-	font-size: 20px;
-	font-family: 'Montserrat', sans-serif; 
-	color: #5F9EA0;
-	margin-top: 40px;
-	
-
-
-}
-img{
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
-  	width: 50%;
-  	height: 300px;
-  	float: right;
-  	display: block;
-}
-body{
-	background-color: black;
-}
-footer{
-	text-align: center;
-}
-.name{
-	font-family: 'Dela Gothic One', cursive;
-	color: #F0F8FF;
-}
-
